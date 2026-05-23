@@ -1,0 +1,5 @@
+fastapi>=0.110.0
+uvicorn[standard]
+httpx
+jinja2
+python-multipart
